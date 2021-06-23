@@ -25,6 +25,7 @@ textarea {
   white-space: pre-wrap;
 }
 
+/*  */
 .time-block {
   text-align: center;
   border-radius: 15px;
@@ -36,27 +37,30 @@ textarea {
   border-top: 1px solid white;
 }
 
+/* col: 1, hour block  */
 .hour {
   background-color: #ffffff;
   color: #000000;
   border-top: 1px dashed #000000;
 }
-
+/* TODO: USE MILITARY TIME?  */
+/* associate with past time block */
 .past {
   background-color: #d3d3d3;
   color: white;
 }
 
+/* associate with current time block */
 .present {
   background-color: #ff6961;
   color: white;
 }
-
+/* associate with future time block, must be past current time*/
 .future {
   background-color: #77dd77;
   color: white;
 }
-
+/* save Button */
 .saveBtn {
   border-left: 1px solid black;
   border-top-right-radius: 15px;
