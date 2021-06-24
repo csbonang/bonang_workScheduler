@@ -14,9 +14,11 @@ displayed to the current hour block.
 4. When the user clicks into a timeblock, then the user can enter an event. 
 5. When the user clicks the save button for that timeblock, then the text for that event is saved in local storage
 6. When the refresh the page, then the saved events persist
-# Screenshots 
+# Screenshots
+<b> TOP OF PAGE </b> 
 (___)
 ![Alt page1](https://github.com/csbonang/bonang_workScheduler/blob/main/top_1.PNG "Top of Page")
+<b> BOTTOM OF PAGE </b> 
 (___)
 ![Alt page2](https://github.com/csbonang/bonang_workScheduler/blob/main/bottom_1.PNG "Bottom of Page")
 
