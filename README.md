@@ -1,5 +1,5 @@
 # bonang_workScheduler
-<b> Programmer: Clarisse Bonang </b> 
+<b> Programmer: Clarisse Bonang </b>  <br> 
 <b> Deployed Link: https://csbonang.github.io/bonang_workScheduler/ </b>
 
 # Description 
@@ -17,10 +17,10 @@ displayed to the current hour block.
 # Screenshots
 <b> TOP OF PAGE </b> 
 (___)
-![Alt page1](https://github.com/csbonang/bonang_workScheduler/blob/main/top_1.PNG "Top of Page")
+![Alt page1](https://github.com/csbonang/bonang_workScheduler/blob/main/final_1.PNG)
 <b> BOTTOM OF PAGE </b> 
 (___)
-![Alt page2](https://github.com/csbonang/bonang_workScheduler/blob/main/bottom_1.PNG "Bottom of Page")
+![Alt page2](https://github.com/csbonang/bonang_workScheduler/blob/main/final_2.PNG "Bottom of Page")
 
 
 
